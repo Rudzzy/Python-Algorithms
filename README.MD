@@ -1,4 +1,4 @@
-# 🧠 Python Algorithms – Clean. Practical. Interview-Ready.
+# 🧠 Python Algorithms
 
 Welcome to my personal vault of **Python algorithms** – built for speed, structure, and serious interview prep. This isn’t just another DSA dump. It's a **well-organized, carefully curated** collection of problems that matter – the kind that get asked at real companies and dominate platforms like **LeetCode**, **Codeforces**, and more.
 
