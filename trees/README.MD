@@ -6,6 +6,6 @@ This folder contains core tree algorithm problems commonly asked in coding inter
 
 | File Name                     | Problem |
 |------------------------------|---------|
-| `inorder_traversal.py`       | Inorder Traversal (DFS) |
-| `preorder_traversal.py`      | Preorder Traversal |
-| `postorder_traversal.py`     | Postorder Traversal |
+| [`inorder_traversal.py`](./inorder_traversal/inorder_traversal.py)       | Inorder Traversal (DFS) |
+| [`preorder_traversal.py`](./preorder_traversal/preorder_traversal.py)      | Preorder Traversal |
+| [`postorder_traversal.py`](./postorder_traversal/postorder_traversal.py)     | Postorder Traversal |
