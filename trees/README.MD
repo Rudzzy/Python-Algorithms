@@ -12,3 +12,4 @@ This folder contains core tree algorithm problems commonly asked in coding inter
 | [`DFS_using_recursion.py`](./depth_first_search/DFS_using_recursion.py)     | Depth First Search(Recursion) |
 | [`DFS_using_stack.py`](./depth_first_search/DFS_using_stack.py)     | Depth First Search (Iterative) |
 | [`breadth_first_search.py`](./breadth_first_search/breadth_first_search.py)     | Breadth First Search |
+| [`valid_binary_tree.py`](./valid_binary_tree/valid_binary_tree.py)     | Validate A Binary Tree |
