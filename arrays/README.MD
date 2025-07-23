@@ -8,7 +8,7 @@ This folder contains clean and tested implementations of commonly used array alg
 
 | File Name                          | Problem Description |
 |-----------------------------------|----------------------|
-| [`max_sum_subarray.py`](./max_sum_subarray.py)              | Maximum Sum Subarray of Size K |
+| [`max_sum_subarray.py`](./sliding_window/max_sum_subarray.py)              | Maximum Sum Subarray of Size K |
 | [`len_of_longest_substring.py`](./sliding_window/len_of_longest_substring.py) | Longest Substring Without Repeating Characters |
 | [`check_substring.py`](./sliding_window/check_substring.py)    | Check if a Permutation of One String Exists in Another |
 
